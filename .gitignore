@@ -17,3 +17,12 @@ build/
 
 # Local research / personal worktrees — not part of public VesperForge
 tradebot/
+
+# Keys, certificates and session transcripts
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+*.jsonl
