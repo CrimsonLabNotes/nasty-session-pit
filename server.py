@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """VesperForge — local session browser for Grok Build."""
-# Copyright (c) 2026 TX-220 with assistance from Grok (xAI) - https://x.ai
+# Copyright (c) 2026 Crimson Lab with assistance from Grok (xAI) - https://x.ai
 
 from __future__ import annotations
 

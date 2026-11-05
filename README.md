@@ -238,7 +238,7 @@ Sessions/Vesper/
 
 MIT — see [LICENSE](./LICENSE).
 
-Copyright (c) 2026 TX-220 with assistance from [Grok (xAI)](https://x.ai).
+Copyright (c) 2026 Crimson Lab with assistance from [Grok (xAI)](https://x.ai).
 
 ---
 
